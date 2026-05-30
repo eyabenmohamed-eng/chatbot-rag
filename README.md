@@ -22,13 +22,13 @@ Suivez ces étapes pour exécuter la démo sur votre machine :
   
    Copiez la clé qui commence par gsk_...
   
-   notepad .env(powershell)
+   notepad .env    (powershell)
   
-   GROQ_API_KEY=gsk_sa_cle_a_elle(block_notes)
+   GROQ_API_KEY=gsk_sa_cle_a_elle   (block_notes)
 
-3.pip install -r requirements.txt(powershell)
+3.pip install -r requirements.txt   (powershell)
 
 
-4.streamlit run app.py(powershell)
+4.streamlit run app.py    (powershell)
 L'application s'ouvrira automatiquement dans votre navigateur à l'adresse http://localhost:8501.
 
