@@ -13,13 +13,22 @@ Suivez ces étapes pour exécuter la démo sur votre machine :
  1. Cloner le projet
   git clone [https://github.com/eyabenmohamed-eng/chatbot-rag.git](https://github.com/eyabenmohamed-eng/chatbot-rag.git)
   cd chatbot-rag
+
 2 — Créer une clé API :
+  
    Cliquez sur API Keys dans le menu gauche
+  
    Cliquez Create API Key
+  
    Copiez la clé qui commence par gsk_...
+  
    notepad .env(powershell)
+  
    GROQ_API_KEY=gsk_sa_cle_a_elle(block_notes)
+
 3.pip install -r requirements.txt(powershell)
+
+
 4.streamlit run app.py(powershell)
 L'application s'ouvrira automatiquement dans votre navigateur à l'adresse http://localhost:8501.
 
