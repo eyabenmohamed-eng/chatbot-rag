@@ -2,8 +2,8 @@
 
 Projet d'Intelligence Artificielle consistant à créer une interface web interactive capable de répondre à des questions complexes sur n'importe quel document PDF en utilisant la méthode **RAG (Retrieval-Augmented Generation)**.
 
- Membres de l'équipe
-BENMOHAMED EYA
+ Membres de l'équipe:
+BENMOHAMED EYA &
 HAFYEN NOURELHOUDA
 
 
@@ -25,3 +25,4 @@ cd chatbot-rag
 2.pip install -r requirements.txt
 3.streamlit run app.py
 L'application s'ouvrira automatiquement dans votre navigateur à l'adresse http://localhost:8501.
+
